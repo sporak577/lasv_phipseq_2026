@@ -25,6 +25,7 @@ of SL cohort to z scores for each peptide in each US healthy by Leave-one-out an
 median z value for that peptide for US from the median z value for that peptide for SL : positive
 delta z means significant for SL ), and the fraction enriched, which calculates the percentage of 
 the SL cohort which has a z score > 3 for this peptide.
+- it saves significant peptides p_adj. < 0.05 with a delta_z > 0 in "indices_peps_sig_pos_d_z_071626.csv". This will be used for analysis plots.
 
 Info:
 
