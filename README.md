@@ -10,12 +10,15 @@ Input:
 
 Output:
 "long_df_z_score_SL_over_US.csv"
+"z_hbdb_loo_results_071626.csv"
+"z_score_df_SL_over_US_071626.csv"
 "indices_peps_sig_pos_d_z_071626.csv"
 
 This notebook 
 - log10(RPK + 1) transforms for each peptide in each individual (both SL and US cohorts)
 - calculates the z score for SL over US
 - saves results in a long df which has metadata appended : "long_df_z_score_SL_over_US.csv"
+- saves z score matrices (no metadata, peptides x samples) for SL over US and LOO US. 
 
 This notebook also
 - performs MWU to identify statistically significant peptides by comparing the z scores for each peptide
