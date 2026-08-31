@@ -1,0 +1,30 @@
+DATASET_SYMBOL
+SEPARATOR TAB
+DATASET_LABEL	Genus fraction seropositive
+COLOR	#800026
+MAXIMUM_SIZE	15
+DATA
+Bandavirus	2	12	#fefdcb	1	1
+Beidivirus	2	12	#ffffcc	1	1
+Bocivirus	2	12	#ffffcc	1	1
+Citricivirus	2	12	#ffffcc	1	1
+Coguvirus	2	12	#ffffcc	1	1
+Entovirus	2	12	#ffffcc	1	1
+Fusavirus	2	12	#ffffcc	1	1
+Goukovirus	2	12	#ffffcc	1	1
+Horwuvirus	2	12	#ffffcc	1	1
+Hudivirus	2	12	#ffffcc	1	1
+Hudovirus	2	12	#ffffcc	1	1
+Ixovirus	2	12	#ffffcc	1	1
+Laulavirus	2	12	#ffffcc	1	1
+Lentinuvirus	2	12	#ffffcc	1	1
+Mechlorovirus	2	12	#ffffcc	1	1
+Mobuvirus	2	12	#ffffcc	1	1
+Phasivirus	2	12	#ffffcc	1	1
+Phlebovirus	2	12	#f9f2c4	1	1
+Pidchovirus	2	12	#ffffcc	1	1
+Rubodvirus	2	12	#ffffcc	1	1
+Tanzavirus	2	12	#ffffcc	1	1
+Tenuivirus	2	12	#ffffcc	1	1
+Uukuvirus	2	12	#f7efc2	1	1
+Wenrivirus	2	12	#ffffcc	1	1

@@ -1,0 +1,14 @@
+DATASET_SYMBOL
+SEPARATOR TAB
+DATASET_LABEL	Genus fraction seropositive
+COLOR	#800026
+MAXIMUM_SIZE	15
+DATA
+Actinovirus	2	12	#ffffcc	1	1
+Percilovirus	2	12	#ffffcc	1	1
+Agnathovirus	2	12	#ffffcc	1	1
+Loanvirus	2	12	#ffffcc	1	1
+Mobatvirus	2	12	#fefcca	1	1
+Orthohantavirus	2	12	#fefdcb	1	1
+Thottimvirus	2	12	#fffecb	1	1
+Reptillovirus	2	12	#ffffcc	1	1

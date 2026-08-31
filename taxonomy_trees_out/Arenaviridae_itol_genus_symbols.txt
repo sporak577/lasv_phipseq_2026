@@ -1,0 +1,11 @@
+DATASET_SYMBOL
+SEPARATOR TAB
+DATASET_LABEL	Genus fraction seropositive
+COLOR	#800026
+MAXIMUM_SIZE	15
+DATA
+Antennavirus	2	12	#ffffcc	1	1
+Hartmanivirus	2	12	#fdfac9	1	1
+Innmovirus	2	12	#fffecb	1	1
+Mammarenavirus	2	12	#8d1b38	1	1
+Reptarenavirus	2	12	#ffffcc	1	1
