@@ -7,5 +7,5 @@ DATA
 Antennavirus	2	12	#ffffcc	1	1
 Hartmanivirus	2	12	#fdfac9	1	1
 Innmovirus	2	12	#fffecb	1	1
-Mammarenavirus	2	12	#8d1b38	1	1
+Mammarenavirus	2	12	#8e1c38	1	1
 Reptarenavirus	2	12	#ffffcc	1	1

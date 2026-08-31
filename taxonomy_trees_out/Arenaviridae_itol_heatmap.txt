@@ -13,7 +13,7 @@ LEGEND_SHAPES	1
 LEGEND_COLORS	#ffffcc,#800026
 LEGEND_LABELS	0,1
 DATA
-Arenaviridae	0.8917
+Arenaviridae	0.8892
 Antennavirus	0.0000
 Antennavirus_hirsutum	0.0000
 Antennavirus_salmonis	0.0000
@@ -30,7 +30,7 @@ Hartmanivirus_turici	0.0202
 Hartmanivirus_unni	0.0000
 Innmovirus	0.0076
 Innmovirus_hailarense	0.0076
-Mammarenavirus	0.8917
+Mammarenavirus	0.8892
 Mammarenavirus_abaense	0.0000
 Mammarenavirus_alashanense	0.0000
 Mammarenavirus_allpahuayoense	0.0000
@@ -52,10 +52,10 @@ Mammarenavirus_gairoense	0.0000
 Mammarenavirus_ganziense	0.0000
 Mammarenavirus_guanaritoense	0.0000
 Mammarenavirus_ippyense	0.0000
-Mammarenavirus_juninense	0.0025
+Mammarenavirus_juninense	0.0000
 Mammarenavirus_kitaleense	0.0000
 Mammarenavirus_kwanzaense	0.0126
-Mammarenavirus_lassaense	0.8917
+Mammarenavirus_lassaense	0.8892
 Mammarenavirus_latinum	0.0000
 Mammarenavirus_lijiangense	0.0000
 Mammarenavirus_loeiense	0.0000

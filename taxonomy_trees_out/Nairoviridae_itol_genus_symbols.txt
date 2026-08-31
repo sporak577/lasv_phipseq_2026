@@ -6,7 +6,7 @@ MAXIMUM_SIZE	15
 DATA
 Norwavirus	2	12	#ffffcc	1	1
 Ocetevirus	2	12	#fcf8c7	1	1
-Orthonairovirus	2	12	#ad5b61	1	1
+Orthonairovirus	2	12	#a74f59	1	1
 Sabavirus	2	12	#ffffcc	1	1
 Shaspivirus	2	12	#ffffcc	1	1
 Sitinavirus	2	12	#ffffcc	1	1

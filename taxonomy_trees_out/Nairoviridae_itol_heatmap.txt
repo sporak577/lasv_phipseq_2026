@@ -13,13 +13,13 @@ LEGEND_SHAPES	1
 LEGEND_COLORS	#ffffcc,#800026
 LEGEND_LABELS	0,1
 DATA
-Nairoviridae	0.6423
+Nairoviridae	0.6877
 Norwavirus	0.0000
 Norwavirus_beijiense	0.0000
 Norwavirus_grotenhoutense	0.0000
 Ocetevirus	0.0302
 Ocetevirus_paratemnopterygis	0.0302
-Orthonairovirus	0.6423
+Orthonairovirus	0.6877
 Orthonairovirus_abuhammadense	0.0000
 Orthonairovirus_abuminaense	0.0000
 Orthonairovirus_amblyommae	0.0000
@@ -39,7 +39,7 @@ Orthonairovirus_erveense	0.1385
 Orthonairovirus_esteroense	0.0025
 Orthonairovirus_gossasense	0.0101
 Orthonairovirus_gubboense	0.0101
-Orthonairovirus_haemorrhagiae	0.6423
+Orthonairovirus_haemorrhagiae	0.6877
 Orthonairovirus_hazaraense	0.0000
 Orthonairovirus_huangpiense	0.0000
 Orthonairovirus_issykkulense	0.0000
@@ -55,7 +55,7 @@ Orthonairovirus_meihuashanense	0.0050
 Orthonairovirus_meramense	0.0252
 Orthonairovirus_nairobiense	0.1008
 Orthonairovirus_parahaemorrhagiae	0.0126
-Orthonairovirus_peruense	0.0025
+Orthonairovirus_peruense	0.0101
 Orthonairovirus_qalyubense	0.0076
 Orthonairovirus_randallense	0.0000
 Orthonairovirus_sakhalinense	0.0504
