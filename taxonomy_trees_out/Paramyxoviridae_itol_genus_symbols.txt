@@ -1,0 +1,29 @@
+DATASET_SYMBOL
+SEPARATOR TAB
+DATASET_LABEL	Genus fraction seropositive
+COLOR	#800026
+MAXIMUM_SIZE	15
+DATA
+Metaavulavirus	2	12	#ffffcc	1	1
+Orthoavulavirus	2	12	#ffffcc	1	1
+Paraavulavirus	2	12	#ffffcc	1	1
+Aquaparamyxovirus	2	12	#ffffcc	1	1
+Ferlavirus	2	12	#ffffcc	1	1
+Respirovirus	2	12	#ffffcc	1	1
+Cynoglossusvirus	2	12	#ffffcc	1	1
+Hoplichthysvirus	2	12	#ffffcc	1	1
+Hippocavirus	2	12	#ffffcc	1	1
+Synodonvirus	2	12	#ffffcc	1	1
+Bovinavirus	2	12	#ffffcc	1	1
+Henipavirus	2	12	#fdfbc9	1	1
+Jeilongvirus	2	12	#ffffcc	1	1
+Morbillivirus	2	12	#f7eec1	1	1
+Narmovirus	2	12	#ffffcc	1	1
+Parahenipavirus	2	12	#ffffcc	1	1
+Parajeilongvirus	2	12	#ffffcc	1	1
+Paramorbillivirus	2	12	#ffffcc	1	1
+Salemvirus	2	12	#ffffcc	1	1
+Tupaivirus	2	12	#ffffcc	1	1
+Orthorubulavirus	2	12	#fffecb	1	1
+Pararubulavirus	2	12	#ffffcc	1	1
+Scoliodonvirus	2	12	#ffffcc	1	1

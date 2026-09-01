@@ -1,0 +1,15 @@
+DATASET_SYMBOL
+SEPARATOR TAB
+DATASET_LABEL	Genus fraction seropositive
+COLOR	#800026
+MAXIMUM_SIZE	15
+DATA
+Cuevavirus	2	12	#fefcca	1	1
+Dianlovirus	2	12	#ffffcc	1	1
+Loebevirus	2	12	#ffffcc	1	1
+Oblavirus	2	12	#ffffcc	1	1
+Orthoebolavirus	2	12	#fefcca	1	1
+Orthomarburgvirus	2	12	#fbf7c7	1	1
+Striavirus	2	12	#ffffcc	1	1
+Tapjovirus	2	12	#ffffcc	1	1
+Thamnovirus	2	12	#ffffcc	1	1

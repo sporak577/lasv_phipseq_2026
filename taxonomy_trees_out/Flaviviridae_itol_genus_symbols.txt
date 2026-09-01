@@ -1,0 +1,11 @@
+DATASET_SYMBOL
+SEPARATOR TAB
+DATASET_LABEL	Genus fraction seropositive
+COLOR	#800026
+MAXIMUM_SIZE	15
+DATA
+Guaicovirus	2	12	#ffffcc	1	1
+Jingmenvirus	2	12	#ffffcc	1	1
+Orthoflavivirus	2	12	#bd7a75	1	1
+Tamanavirus	2	12	#ffffcc	1	1
+Termitovirus	2	12	#ffffcc	1	1

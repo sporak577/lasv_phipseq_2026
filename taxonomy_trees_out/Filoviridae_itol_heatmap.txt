@@ -1,0 +1,42 @@
+DATASET_HEATMAP
+SEPARATOR TAB
+DATASET_LABEL	Fraction seropositive
+COLOR	#800026
+COLOR_MIN	#ffffcc
+COLOR_MAX	#800026
+FIELD_LABELS	frac_seropositive
+STRIP_WIDTH	60
+MARGIN	15
+SHOW_LABELS	1
+LEGEND_TITLE	Fraction seropositive
+LEGEND_SHAPES	1
+LEGEND_COLORS	#ffffcc,#800026
+LEGEND_LABELS	0,1
+DATA
+Filoviridae	0.0327
+Cuevavirus	0.0126
+Cuevavirus_lloviuense	0.0126
+Dianlovirus	0.0000
+Dianlovirus_dehongense	0.0000
+Dianlovirus_menglaense	0.0000
+Loebevirus	0.0000
+Loebevirus_percae	0.0000
+Oblavirus	0.0000
+Oblavirus_percae	0.0000
+Orthoebolavirus	0.0126
+Orthoebolavirus_bombaliense	0.0000
+Orthoebolavirus_bundibugyoense	0.0000
+Orthoebolavirus_restonense	0.0126
+Orthoebolavirus_sudanense	0.0000
+Orthoebolavirus_taiense	0.0000
+Orthoebolavirus_zairense	0.0000
+Orthomarburgvirus	0.0327
+Orthomarburgvirus_marburgense	0.0327
+Striavirus	0.0025
+Striavirus_antennarii	0.0025
+Tapjovirus	0.0000
+Tapjovirus_bothropis	0.0000
+Thamnovirus	0.0025
+Thamnovirus_kanderense	0.0000
+Thamnovirus_percae	0.0000
+Thamnovirus_thamnaconi	0.0025
