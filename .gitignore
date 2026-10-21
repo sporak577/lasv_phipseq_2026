@@ -1,2 +1,3 @@
 *.csv
-*.log
+*.logsvg_figures/peptide_hits_birdseye_view_by_family.svg
+*.svg
